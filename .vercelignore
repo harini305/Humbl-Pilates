@@ -4,3 +4,5 @@ scripts/
 .taste-skill/
 README.md
 *.log
+.env*
+.vercel/

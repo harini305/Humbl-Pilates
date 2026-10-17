@@ -15,3 +15,6 @@ Thumbs.db
 docs/source-audit/original-assets/
 docs/source-audit/screenshots/
 docs/source-audit/raw/
+
+.vercel
+.env*
