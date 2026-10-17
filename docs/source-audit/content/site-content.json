@@ -1,0 +1,245 @@
+{
+  "_meta": {
+    "source": "https://humblpilates.com/",
+    "captured": "2026-10-17",
+    "note": "Verbatim text from the live site. Spelling is preserved as published (e.g. 'Comming Soon', 'Calender'). Conflicts are flagged in 08-issues-gaps-questions.md; do not resolve them without the business's confirmation. Values marked 'rezerv' come from the third-party booking platform, not the website."
+  },
+  "business": {
+    "name": "Humbl Pilates",
+    "logoWordmark": "Humbl. PILATES",
+    "positioning": "Boutique reformer pilates studio in Pererenan, Bali",
+    "reformerCount": 5,
+    "tagline": "\"Move together. Grow together\"",
+    "heroTitle": "The Humbl Method",
+    "heroLines": "Reformer Pilates in Pererenan, Bali. Boutique studio. Intimate classes. Just five reformers.",
+    "address": ["Jl. Pantai Pererenan", "Pererenan, Mengwi", "Badung, Bali 80351", "Indonesia"],
+    "addressPerGoogleMapsEmbed": "Jl. Pantai Pererenan No.69B, Pererenan, Kec. Mengwi, Kabupaten Badung, Bali 80351 (third-party; street number not on website)",
+    "mapCoordinates": { "lat": -8.6391077, "lng": 115.1310625 },
+    "mapEmbedSrc": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3944.550177492324!2d115.1310625!3d-8.6391077!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd239bf9ec91fb9%3A0x43a6ddc0e03d7343!2sHumbl%20Pilates!5e0!3m2!1sen!2sid!4v1766763698860!5m2!1sen!2sid",
+    "email": "humblpilates@gmail.com",
+    "phoneDisplayed": "+62 8898 73335 93",
+    "phoneE164": "+6288987333593",
+    "whatsappUrl": "https://api.whatsapp.com/send/?phone=6288987333593&text&type=phone_number&app_absent=0",
+    "studioHours_homepage": ["Monday- Friday 8:00am- 5:00pm", "Saturday & Sunday 8:00am- 3:00pm"],
+    "studioHours_aboutFaq_CONFLICTING": ["Monday-Friday: 6:00 AM - 8:00 PM", "Saturday: 7:00 AM - 6:00 PM", "Sunday: 8:00 AM - 4:00 PM"],
+    "social": { "instagram": "UNKNOWN - footer shows plain text 'Instagram | Facebook' with no links", "facebook": "UNKNOWN" },
+    "founder": { "name": "Demi Geary", "role": "Founder & Lead Instructor" },
+    "copyright": "© 2024 Humbl Pilates. All rights reserved."
+  },
+  "booking": {
+    "platform": "Rezerv (humbl-pilates.rezerv.co)",
+    "allClasses": "https://humbl-pilates.rezerv.co/class?classCategory=",
+    "classesAlt": "https://humbl-pilates.rezerv.co/class",
+    "packages": "https://humbl-pilates.rezerv.co/package",
+    "timetable": "https://humbl-pilates.rezerv.co/timetable",
+    "findYourPassion": "https://humbl-pilates.rezerv.co/class/75b81f3d-8b93-4d50-a914-bdcaab6e8332",
+    "findYourHumbl": "https://humbl-pilates.rezerv.co/class/24f7e7d4-3363-432a-aa74-02fcbba7c1f5",
+    "findYourPower": "https://humbl-pilates.rezerv.co/class/1f1ce156-fd27-475c-9632-94c1cc050a81",
+    "private1to1": "https://humbl-pilates.rezerv.co/appointment/c14011f2-d5db-4f6c-8fff-728bd335c4aa",
+    "privateGroup": "https://humbl-pilates.rezerv.co/appointment/3ec2a70f-3d12-4819-8f44-9f272aa129c7"
+  },
+  "homeAbout": {
+    "title": "About Us",
+    "paragraphs": [
+      "Humbl Pilates is a boutique reformer pilates studio in the heart of Pererenan, Bali. We move beyond the standard reformer experience with precision, quality and truly personalised instruction.",
+      "Our membership-first model and intentionally small classes create the space for focused, individualised attention - allowing each client to progress confidently in strength, mobility and alignment. Our Humbl method is designed to leave you feeling centred, balanced and empowered."
+    ],
+    "founderTitle": "Founder",
+    "founderParagraph": "Founder and lead instructor Demi Geary brings Pilates teaching and experience in health, fitness and education. Her approach blends biomechanical principles, human movement and contemporary Pilates to create technically precise yet transformative sessions. Humbl Pilates embodies her signature style of an inclusive, home-like space where clients feel seen, supported and inspired as they build strength, alignment and a deeper mind-body connection."
+  },
+  "offerings": [
+    {
+      "id": "group",
+      "titleHome": "Levelled group classes",
+      "titleClassesPage": "Levelled Group Classes",
+      "badgeClassesPage": "Most Popular",
+      "descriptionHome": "Start your Pilates journey in a supportive space designed to help you",
+      "descriptionClassesPage": "Progressive classes designed for all levels. Work alongside others in an intimate group setting with personalized attention to your form and goals.",
+      "features": ["Beginner, Intermediate & Advanced levels", "Maximum 5 people per class", "45-minute sessions"],
+      "cta": "Discover More (reveals the level cards)"
+    },
+    {
+      "id": "private",
+      "titleHome": "Private 1:1 Classes",
+      "titleClassesPage": "Private 1:1 Classes",
+      "badgeClassesPage": "Premium",
+      "descriptionHome": "Your body, your goals, your session. Our fully customised one-on-one classes are designed to meet you exactly where you are",
+      "descriptionClassesPage": "Fully customized sessions tailored to your specific needs, goals, and body. Experience complete focus and precision in your practice.",
+      "features": ["Completely personalized programming", "One-on-one attention", "Flexible scheduling"],
+      "priceRezerv": "Rp900,000 / 50 minutes (rezerv; not shown on website)",
+      "bookingUrl": "https://humbl-pilates.rezerv.co/appointment/c14011f2-d5db-4f6c-8fff-728bd335c4aa"
+    },
+    {
+      "id": "private-group",
+      "titleHome": "Private Group Session",
+      "titleClassesPage": "Semi-Private Classes",
+      "badgeClassesPage": "New to Pilates?",
+      "descriptionHome": "Experience a personalized Pilates session tailored specifically for your chosen group. Designed for 2–5 participants, each class is professionally adapted to meet your collective goals and capabilities. It offers the same precision and attention as a private session, but in a shared format. This is the perfect choice for groups who want a focused and refined Pilates experience together.",
+      "descriptionClassesPage": "A highly personalised Pilates session designed exclusively for your selected group. With 2–5 participants, each class is professionally tailored to your collective goals and abilities.Offering the precision and attention of a private session in a shared format. This is the ideal option for groups seeking a refined and focused Pilates experience together.",
+      "features": ["2-5 people per session", "Shared or customized programming", "Great for beginners together"],
+      "priceRezerv": "UNKNOWN - Rezerv appointment page shows 'Price: Free' with a selector; actual price not determinable",
+      "bookingUrl": "https://humbl-pilates.rezerv.co/appointment/3ec2a70f-3d12-4819-8f44-9f272aa129c7"
+    },
+    {
+      "id": "online",
+      "titleHome": "Humbl Online - Online Humbl Classes",
+      "titleClassesPage": "Humbl Online Library",
+      "badgeClassesPage": "Limited Spots",
+      "description": "Comming Soon",
+      "status": "Not launched"
+    }
+  ],
+  "groupClassLevels": {
+    "sectionTitle": "Group Classes by Level",
+    "intro": "Choose your level and progress at your own pace with expert guidance",
+    "sharedStudioPolicy": "Grip socks are required for all classes. No entry will be permitted if you arrive more than 5 minutes late.",
+    "sharedCancellations": "Refer to our Cancellation Policies outlined in our Rezerv app and via Instagram.",
+    "durationWebsite": "45 minutes",
+    "durationRezervListing": "50 mins (Rezerv class list & timetable; the Find Your Passion detail page on Rezerv says 45 mins)",
+    "classSize": "Max 5 people",
+    "levels": [
+      {
+        "name": "Find Your Passion",
+        "badge": "Recommended: Beginner",
+        "description": "Start your Pilates journey in a supportive & beginner-friendly space designed to help you build strength, improve technique, and boost confidence. Through a range of modern and classical exercises, you'll focus on core strength, posture, and balance to enhance overall mobility. But don’t be fooled—while this class is beginner-friendly, you’ll still leave with that signature Humbl burn. More than just movement, this class encourages you to listen to your body and celebrate its progress. Leave feeling strong, capable, and empowered in your own skin!",
+        "bookingUrl": "https://humbl-pilates.rezerv.co/class/75b81f3d-8b93-4d50-a914-bdcaab6e8332"
+      },
+      {
+        "name": "Find Your Humbl",
+        "badge": "Recommended for: Intermediate",
+        "featured": true,
+        "description": "This dynamic, full-body class is perfect for those looking to build on their Pilates foundation. Designed for confident beginners and seasoned enthusiasts, you'll challenge both small and large muscle groups while refining strength, technique, and flexibility. Expect a balanced mix of flowing movements and focused exercises that leave you feeling empowered, centered, and connected after each session. Prior Pilates experience recommended.",
+        "bookingUrl": "https://humbl-pilates.rezerv.co/class/24f7e7d4-3363-432a-aa74-02fcbba7c1f5"
+      },
+      {
+        "name": "Find Your Power",
+        "badge": "Recommended for: Advanced",
+        "description": "Challenge your strength, balance, and endurance in this dynamic, full-body workout designed for those ready to level up. Using a mix of functional exercises, spring resistance, and stability work, you’ll build muscular strength, control, and confidence. This class is also designed to boost your mental toughness and self-awareness, helping you develop a stronger sense of confidence and self-assurance. Leave feeling strong, empowered, and unstoppable. Prior Pilates experience required.",
+        "bookingUrl": "https://humbl-pilates.rezerv.co/class/1f1ce156-fd27-475c-9632-94c1cc050a81"
+      }
+    ],
+    "rezervOnlyClass": "Humbl x Beach House at The Regent — 45 mins, Open to all — 'We've partnered with the iconic Beach House at Regent Bali Canggu to bring you a 45-minute mat Pilates class with...' (listed on Rezerv only; not on website)"
+  },
+  "pricing": {
+    "currency": "IDR",
+    "classPackages": [
+      { "name": "Casual Class Package", "payment": "One time payment", "credits": "1 credit for Classes", "location": "Location access: Humbl. Pilates", "validityWebsite": "Valid for 1 month first date of booking", "validityRezerv": "Valid for 1 month from date of purchase", "price": "Rp280,000" },
+      { "name": "Humbl Intro Package", "payment": "One time payment", "credits": "3 credits for Classes", "location": "Location access: Humbl. Pilates", "validityWebsite": "Valid for 14 days from first date of booking", "validityRezerv": "Valid for 14 days from date of first booking", "price": "Rp600,000" },
+      { "name": "5 Class Package", "payment": "One time payment", "credits": "5 credits for Classes", "location": "Location access: Humbl. Pilates", "validityWebsite": "Valid for 3 months from first date of booking", "validityRezerv": "Valid for 2 months from date of first booking", "priceWebsite": "Rp1,250,000.00", "price": "Rp1,250,000" },
+      { "name": "10 Class Package", "payment": "One time payment", "credits": "10 credits for Classes", "location": "Location access: Humbl. Pilates", "validityWebsite": "Valid for 6 months from first date of booking", "validityRezerv": "Valid for 3 months from date of first booking", "price": "Rp2,200,000" },
+      { "name": "20 Class Package", "payment": "One time payment", "credits": "20 credits for Classes", "location": "Location access: Humbl. Pilates", "validityWebsite": "Valid for 6 months from first date of booking", "validityRezerv": "Valid for 3 months from date of purchase", "price": "Rp4,000,000" }
+    ],
+    "memberships": [
+      { "name": "Humbl Monthly Membership", "payment": "One time payment", "credits": "Unlimited class credits", "renewal": "Credits are renewed every day with no rollover credit", "validity": "Valid for 1 month", "price": "Rp2,950,000" },
+      { "name": "Humbl 6 Month Membership", "payment": "One time payment", "credits": "Unlimited class credits", "renewal": "Credits are renewed every day with no rollover credit", "validity": "Valid for 6 months", "price": "Rp11,000,000" },
+      { "name": "Humbl Yearly Membership", "payment": "One time payment", "credits": "Unlimited class credits", "renewal": "Credits are renewed every day with no rollover credit", "validity": "Valid for 12 months", "price": "Rp18,000,000", "note": "NOT listed on Rezerv package page at time of audit" }
+    ],
+    "gripSocks": "75,000 IDR – 250,000 IDR (available for purchase at the studio)",
+    "schedule": { "title": "Calender", "text": "make sure your pilates schedule", "button": "Check The schedule", "url": "https://humbl-pilates.rezerv.co/timetable" }
+  },
+  "faq_pricingPage": [
+    { "q": "What’s your cancellation policy?", "a": "We require a minimum of 8 hours’ notice to cancel a class via the app. As a small studio, every space matters. Cancellations made outside of this window will not be credited. If you cancel within the 8-hour policy, your class will be returned to your account as a credit." },
+    { "q": "Can I book a class and pay later?", "a": "No. Due to our very limited class sizes, all bookings must be paid for at the time of booking—either online or via direct payment at the studio. Spaces cannot be held without payment." },
+    { "q": "How long does the Intro Package last?", "a": "Our Intro Package is valid for two weeks from your first booked class." },
+    { "q": "I’m new to Pilates — which class should I start with?", "a": "We recommend starting with Find Your Passion, our beginner-friendly class. This class is designed to guide you through the foundational principles of Pilates in a supportive environment, helping you build strength, confidence, and technique." },
+    { "q": "How long are packages valid for?", "a": "Package validity depends on the option you choose: 10 Class Pack: valid for 6 months; 5 Class Pack: valid for 3 months; Single Casual Class: valid for 1 month" },
+    { "q": "Are grip socks compulsory?", "a": "Yes. We have a strict no socks, no entry policy. Grip socks are essential for hygiene, safety, and proper technique on the equipment. They are available for purchase at the studio, priced between 75,000 IDR – 250,000 IDR." },
+    { "q": "Can I join if I am pregnant?", "a": "Yes. Find Your Passion is the most suitable class during pregnancy. Our studio is small and intimate, allowing us to offer personalised modifications so you feel supported, comfortable, and safe throughout your practice." }
+  ],
+  "faq_aboutPage_REQUIRES_VERIFICATION": {
+    "_warning": "Several answers contradict the homepage, pricing page and Rezerv (class length, cancellation window, class size, hours, membership renewal, grip socks vs barefoot). Treat as unverified until the business confirms. See 08-issues-gaps-questions.md.",
+    "Getting Started": [
+      { "q": "Do I need prior Pilates experience?", "a": "Not at all! We welcome complete beginners. Our Beginner group classes and private sessions are designed to introduce you to the fundamentals in a supportive, non-intimidating environment. Demi will guide you through proper technique and help you build a strong foundation." },
+      { "q": "What should I wear?", "a": "Wear comfortable, fitted athletic clothing that allows you to move freely. Avoid loose or baggy clothing as it can get caught in the reformer equipment. We practice barefoot or in grip socks (available for purchase at the studio)." },
+      { "q": "What should I bring?", "a": "Just yourself and a water bottle! We provide all equipment including mats, props, and towels. If you have your own mat or prefer to use grip socks, you're welcome to bring those." },
+      { "q": "How do I book my first class?", "a": "You can book through our website, WhatsApp, or by calling the studio directly. We recommend arriving 10 minutes early for your first class so we can give you a brief studio tour and answer any questions." },
+      { "q": "Is Pilates suitable for injuries or physical limitations?", "a": "Pilates is excellent for rehabilitation and working with injuries, but we recommend starting with a private session so we can assess your needs and create appropriate modifications. Always consult with your healthcare provider before starting any new exercise program." }
+    ],
+    "Classes & Pricing": [
+      { "q": "What's the difference between mat and reformer Pilates?", "a": "Mat Pilates uses your body weight for resistance and is performed on a mat on the floor. Reformer Pilates uses a specialized machine with springs and pulleys that provides variable resistance. Both are excellent; the reformer allows for more variety and can be easier for beginners to feel proper alignment." },
+      { "q": "How long are classes?", "a": "Group classes are 50 minutes, private sessions are 60 minutes. We recommend arriving 5-10 minutes early to settle in and avoid rushing." },
+      { "q": "What's your cancellation policy?", "a": "Please cancel at least 12 hours before your scheduled class to avoid losing a class from your package or membership. We understand emergencies happen—just let us know as soon as possible." },
+      { "q": "Do you offer discounts?", "a": "Yes! We offer 15% off for Indonesian residents with valid ID and students with valid student cards. We also have special intro packages for new clients." },
+      { "q": "How many people are in each class?", "a": "Our group classes are intentionally small, with a maximum of 6-8 people. This allows for personalized attention and modifications while maintaining an intimate, community atmosphere." }
+    ],
+    "Membership": [
+      { "q": "How does monthly membership work?", "a": "Monthly membership gives you unlimited access to all group classes for a flat monthly rate. It automatically renews each month until you choose to cancel. Members also receive priority booking, exclusive events, and special perks." },
+      { "q": "Can I pause or cancel my membership?", "a": "Yes! You can pause your membership for up to 2 weeks per year with 7 days advance notice. Cancellations require 30 days notice. We want you to feel flexible and supported in your practice." },
+      { "q": "Can I share my class package with someone else?", "a": "Class packages can be shared with one family member. Monthly memberships are personal and non-transferable." },
+      { "q": "What are the member benefits?", "a": "Members receive unlimited classes, priority booking, 10% off workshops and merchandise, complimentary mat storage, exclusive member events, and one free private session per year." }
+    ],
+    "Studio & Location": [
+      { "q": "Where are you located?", "a": "We're in the heart of Pererenan, Bali, on Jl. Pantai Pererenan. We're about 10 minutes from Canggu by scooter, easily accessible from Echo Beach, Batu Bolong, and surrounding areas." },
+      { "q": "What are your studio hours?", "a": "Monday-Friday: 6:00 AM - 8:00 PM / Saturday: 7:00 AM - 6:00 PM / Sunday: 8:00 AM - 4:00 PM / Check our schedule for specific class times." },
+      { "q": "Is parking available?", "a": "Yes! We have dedicated scooter parking right outside the studio and limited car parking nearby. Most clients arrive by scooter." },
+      { "q": "Do you have showers/changing rooms?", "a": "We have changing areas and bathroom facilities. While we don't have full shower facilities, Pilates is a low-impact workout that doesn't typically result in heavy sweating." }
+    ],
+    "Humbl Online": [
+      { "q": "What's included in the online subscription?", "a": "Unlimited access to our growing library of mat and reformer classes, new content added weekly, downloadable workout plans, and the ability to practice from anywhere at any time." },
+      { "q": "Can I do reformer classes at home without equipment?", "a": "Our online reformer classes are designed for those with access to a reformer at home. However, we also offer mat classes and reformer-inspired mat modifications that you can do with no equipment." },
+      { "q": "How do I access the online videos?", "a": "After subscribing, you'll receive login credentials to access our online platform. Videos can be streamed on any device—phone, tablet, computer, or smart TV." },
+      { "q": "Can I combine studio classes and online subscription?", "a": "Absolutely! Many of our members use online classes to supplement their studio practice. We offer discounted bundles if you want both." }
+    ]
+  },
+  "testimonials": [
+    { "author": "Tori", "page": "home", "text": "I came to Humbl as a complete beginner with no idea what to expect from Pilates, and I can honestly say it has been a transformative experience. From day one, the team made it their mission to help me build confidence, and they delivered on that in every single class.\nDemi and her team are simply incredible. They bring a level of knowledge and expertise that is immediately apparent, but what sets them apart is how they channel that into a warm, positive learning environment where you never feel intimidated. They have a rare gift for striking the perfect balance — sessions feel both deeply relaxing and genuinely challenging in all the right ways.\nThe studio itself is intimate, which means you quickly feel like part of the Humbl family rather than just another face in the crowd. That sense of community makes a real difference.\nAnd it would be remiss not to mention the lovely little touch at the end of each class — refreshing water and a delicious treat waiting for you. It's a small thing, but it perfectly captures the care and thoughtfulness that runs through everything Humbl does.\nA truly awesome place. Give it a try, you won't regret it!" },
+    { "author": "Monisha Alexander", "page": "home", "text": "Words can't describe how perfect Humbl Pilates is. This studio made me fall in love with pilates even more and is a little sanctuary where you feel right at home the second you walk in. Demi's classes are truly the best, most dynamic, challenging and humbling classes I have ever been to.\nThe atmosphere is also so beautiful. From my first class, Demi and staff made me feel right at home — with all the thoughtful touches of remembering your name, feedback in every class, and taking care and consideration for injuries etc, something in my experience a lot of other studios lack. There are only 5 reformers, so you're not just another number in a room. The space is intimate and you can actually progress and see a difference class to class.\nI remember coming to my first class on their opening weekend and now they will never get rid of me! Best decision I ever made!" },
+    { "author": "Jessica Chen", "subline": "Member since 2023", "page": "home + about", "text": "First class back post-ACL knee injury—and I couldn’t have asked for a better restart! Demi was incredible—so attentive, knowledgeable, and encouraging throughout the session. It was my first time moving again since my knee injury from padel, and I felt completely supported. Loved the small group setup (only 5 reformers!) which made it feel personal and intimate. The flow was thoughtfully challenging—enough to feel the burn, but still safe and sustainable. Demi gave active, hands-on feedback and kept a close eye on our form throughout.  I also got to try several Pilates tools that were totally new to me - Demi explained how to use each one with ease and confidence. It felt like a private masterclass in movement. Felt stronger and more inspired to return." },
+    { "author": "Olivia", "page": "about", "text": "The most amazing time for my first Reformer class! Demi is a great instructor, she's very friendly and encouraging, and takes the time to fully explain the moves and help you fix your posture/movement if needed. The \"Find Your Passion\" class is perfect for beginners and the fact that there are only 5 reformers really creates a cosy, intimate atmosphere, which makes you comfortable right away" },
+    { "author": "Bhavana", "page": "about", "text": "We just had our first private class at Humbl Pilates, and wow — what an incredible experience! From the moment we walked in, we were struck by how aesthetic and serene the studio felt — every detail has been so thoughtfully curated." }
+  ],
+  "aboutPage": {
+    "heroTitle": "About Humbl Pilates",
+    "heroSubtitle": "Where precision meets personalization in the heart of Pererenan",
+    "storyTitle": "Our Story",
+    "story": [
+      "Humbl Pilates was born from a simple belief: that transformative movement should feel personal, intentional, and accessible. Founded in the heart of Pererenan, Bali, we created a space where the precision of classical Pilates meets the warmth of a home-like studio environment.",
+      "We chose Pererenan for its unique blend of tranquility and vibrant community energy. Away from the bustling tourist centers, yet close enough to Canggu's creative spirit, our location reflects our philosophy: grounded, authentic, and focused on what truly matters.",
+      "Every detail of Humbl has been thoughtfully designed—from our intimate class sizes to the precise calibration of our equipment—to ensure you receive the attention and guidance you deserve. This isn't just another Pilates studio; it's a community dedicated to your personal growth and well-being."
+    ],
+    "methodTitle": "The Humbl Method",
+    "methodIntro": "Four principles that define our approach to movement and well-being",
+    "methodPrinciples": [
+      { "title": "Precision & Technique", "text": "Every movement is intentional. We emphasize proper form and biomechanical alignment, ensuring you build strength safely and effectively from the foundation up." },
+      { "title": "Personalized Attention", "text": "With intentionally small classes, we provide individualized cuing and modifications tailored to your body, experience level, and personal goals." },
+      { "title": "Intimate Community", "text": "Our membership-first model creates a close-knit community where regulars know each other by name and support one another's journey." },
+      { "title": "Mind-Body Connection", "text": "Beyond physical strength, we cultivate awareness and presence. Each session is designed to leave you feeling centered, balanced, and empowered." }
+    ],
+    "founder_REQUIRES_VERIFICATION": {
+      "_warning": "Biographical claims (decade of experience, sports-injury origin, named certifications) appear only on this page and read like template copy. Confirm with Demi Geary before publishing.",
+      "title": "Meet Demi Geary",
+      "role": "Founder & Lead Instructor",
+      "paragraphs": [
+        "Demi brings over a decade of experience in movement education, blending biomechanical principles with contemporary Pilates techniques to create transformative sessions that honor each individual's unique body and goals.",
+        "Her journey into Pilates began during her own recovery from a sports injury, where she discovered the profound impact of mindful, precise movement. This experience shaped her teaching philosophy: that true strength comes from understanding your body, not pushing past its limits.",
+        "With certifications in Classical and Contemporary Pilates, as well as specialized training in pre/postnatal movement and injury rehabilitation, Demi creates an inclusive environment where everyone—from complete beginners to advanced practitioners—feels supported and challenged."
+      ],
+      "quote": "\"Movement should empower, not intimidate. At Humbl, we create space for you to explore your body's potential with curiosity, patience, and expert guidance.\" — Demi Geary",
+      "qualifications": ["Comprehensive Pilates Certification (Mat & Reformer)", "Pre/Postnatal Pilates Specialist", "Anatomy & Biomechanics Studies", "Injury Rehabilitation & Movement Therapy"]
+    },
+    "studioTitle": "Our Studio",
+    "studioIntro": "A thoughtfully designed space for your practice",
+    "studioFeatures_REQUIRES_VERIFICATION": [
+      { "title": "Premium Equipment", "text": "Balanced Body reformers and props, maintained to exacting standards", "note": "Brand claim unverified" },
+      { "title": "Peaceful Atmosphere", "text": "Natural light, plants, and thoughtful design create a calming environment" },
+      { "title": "Home-Like Space", "text": "Intimate setting where you feel welcome, comfortable, and supported" },
+      { "title": "Prime Location", "text": "Central Pererenan, easy access from Canggu and surrounding areas" }
+    ]
+  },
+  "ctas": {
+    "home": { "title": "Ready to Begin Your Journey?", "text": "Join our community and experience the Humbl difference", "button": "Book Your First Class", "url": "https://humbl-pilates.rezerv.co/class?classCategory=" },
+    "classes": { "title": "Not Sure Which Class is Right for You?", "text": "Let us help you find the perfect starting point for your Pilates journey", "button": "Get in Touch", "url": "WhatsApp" },
+    "pricing": { "title": "Not sure which package is right for you?", "text": "We're here to help you choose the perfect option for your goals and schedule", "button": "Contact Us", "url": "WhatsApp" },
+    "about": { "title": "Ready to Visit Humbl?", "text": "We'd love to welcome you to our studio. Book your first class or schedule a studio tour.", "buttons": ["Book Your First Class (Rezerv /class)", "WhatsApp Us"] }
+  },
+  "pageHeroes": {
+    "classes": { "title": "Our Classes", "subtitle": "Find the perfect class that matches your goals and experience level", "button": "Contact Us Today (WhatsApp)" },
+    "pricing": { "title": "Membership & Pricing", "subtitle": "Choose the plan that fits your journey and start transforming today" }
+  },
+  "seo": {
+    "index.php": { "title": "Humbl Pilates - Boutique Reformer Studio in Pererenan, Bali", "description": null, "canonical": null, "ogImage": null },
+    "classes.php": { "title": "Classes - Humbl Pilates | Boutique Reformer Studio in Bali", "description": null },
+    "pricing.php": { "title": "Pricing & Membership - Humbl Pilates | Boutique Reformer Studio in Bali", "description": null },
+    "about_us.php": { "title": "About Us & FAQ - Humbl Pilates | Boutique Reformer Studio in Bali", "description": null }
+  }
+}

@@ -1,0 +1,17 @@
+# Dependencies and build output
+node_modules/
+.next/
+out/
+.vercel/
+
+# Local tooling output
+.taste-skill/
+*.log
+.DS_Store
+Thumbs.db
+
+# Audit evidence kept locally only (large masters, test screenshots, raw captures).
+# Web-ready copies of the photos live in public/images/.
+docs/source-audit/original-assets/
+docs/source-audit/screenshots/
+docs/source-audit/raw/

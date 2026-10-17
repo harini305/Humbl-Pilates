@@ -1,0 +1,6 @@
+# Only the site source is uploaded to Vercel.
+docs/
+scripts/
+.taste-skill/
+README.md
+*.log
